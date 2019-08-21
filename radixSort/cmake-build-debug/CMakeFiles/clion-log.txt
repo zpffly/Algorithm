@@ -1,0 +1,4 @@
+"C:\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\algorithm\radixSort
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/algorithm/radixSort/cmake-build-debug

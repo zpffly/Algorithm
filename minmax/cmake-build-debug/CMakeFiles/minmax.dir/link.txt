@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/minmax.dir/main.cpp.o  -o minmax 

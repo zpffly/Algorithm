@@ -1,0 +1,3 @@
+/home/zpffly/sda3/algorithm/minmax/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zpffly/sda3/algorithm/minmax/cmake-build-debug/CMakeFiles/minmax.dir
+/home/zpffly/sda3/algorithm/minmax/cmake-build-debug/CMakeFiles/edit_cache.dir

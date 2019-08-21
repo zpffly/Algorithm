@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/algorithm/kruskal/UnionFind.h
+
+F:/algorithm/kruskal/main.cpp
+iostream
+-
+vector
+-
+climits
+-
+algorithm
+-
+UnionFind.h
+F:/algorithm/kruskal/UnionFind.h
+
